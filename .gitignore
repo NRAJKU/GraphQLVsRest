@@ -1,0 +1,12 @@
+.idea/
+
+GraphQL-With-Spring/.idea/
+GraphQL-With-Spring/.settings/
+GraphQL-With-Spring/target/
+.factorypath
+.springBeans
+
+REST-API-against-GraphQL/.gradle/
+REST-API-against-GraphQL/build/
+REST-API-against-GraphQL/.idea/
+HELP.md
